@@ -15,6 +15,8 @@ public class MainDev {
                 System.err.println("Server failed with this port 8090");
             }
         });
-
+        // графана graphQl git docker gitlab vs jenkins
+        // kubernaets RabitMQ redis Scala/ Java SOLID KISS mongo 2.7 3.3
+        // гибкость языка
     }
 }
